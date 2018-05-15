@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DomiLearn.iml" filepath="$PROJECT_DIR$/DomiLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DOMILEARN.iml" filepath="$PROJECT_DIR$/DOMILEARN.iml" />
+      <module fileurl="file://C:\Users\Pavilion\Desktop\DOMILEARN\DomiLearn.iml" filepath="C:\Users\Pavilion\Desktop\DOMILEARN\DomiLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Pavilion\Desktop\DOMILEARN\app\app.iml" filepath="C:\Users\Pavilion\Desktop\DOMILEARN\app\app.iml" />
     </modules>
   </component>
 </project>
