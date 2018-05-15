@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885091087242",
+    "firebase_url": "https://domilearn-73d87.firebaseio.com",
+    "project_id": "domilearn-73d87",
+    "storage_bucket": "domilearn-73d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885091087242:android:af78d014a0d7c02f",
+        "android_client_info": {
+          "package_name": "com.example.hp.domilearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885091087242-massq652be51ivgo9fpsc5llp1b2et9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.domilearn",
+            "certificate_hash": "9d188504a597ae6933224a51ca4b6b7e8d0c7811"
+          }
+        },
+        {
+          "client_id": "885091087242-vei6jjvla68nga93fqn1ak11lir914d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ_B63tiKsbbxPy7aJuMJi8fYSpSARKns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885091087242-vei6jjvla68nga93fqn1ak11lir914d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
